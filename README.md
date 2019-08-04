@@ -1,4 +1,5 @@
-# web_task
+# Background generator
+# ======================
 # This a Background generator for css3.
 # Helps in building quick css3 for any project background color generator.
 
